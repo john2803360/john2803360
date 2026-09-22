@@ -56,8 +56,8 @@ new selector, and opens a PR with the fix.
 **Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![IBM Db2](https://img.shields.io/badge/IBM%20Db2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **AI / Agents**
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
